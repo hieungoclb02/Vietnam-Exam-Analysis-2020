@@ -43,7 +43,8 @@ This project analyzes the **2020 Vietnamese National High School Exam** scores i
 - 📊 Finding:  
   - Score distribution was **fairly uniform** across different subject counts.  
   - **Initial hypothesis** (fewer subjects → lower scores) was **incorrect**.  
-  ![Chart Analysis](122246293_175872160794677_2719925073073678596_n.png)
+  ![Chart Analysis](122174108_175742290807664_5641828690998021824_n.png
+)
   📂 Scripts: `barchart_average_score.py`.  
 
 ### **6️⃣ Age vs. Exam Performance**  
