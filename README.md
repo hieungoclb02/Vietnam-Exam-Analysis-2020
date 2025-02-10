@@ -27,7 +27,7 @@ This project analyzes the **2020 Vietnamese National High School Exam** scores i
   - Some students skipped compulsory subjects like **Math and Literature**.  
   - Science subjects were more popular than social sciences.  
   - **Possible insight**: Did students skip Literature after performing poorly in Math?  
-
+  ![Barchart Analysis](121678478_175717860810107_3047492086588150048_n.png)
   📂 Scripts: `data_prepare.py`, `barchart.py`.  
 
 ### **4️⃣ Exam Subject Distribution (Pie Chart)**  
@@ -35,7 +35,7 @@ This project analyzes the **2020 Vietnamese National High School Exam** scores i
 - **Results**:  
   - **86.3% of students took 7 subjects**.  
   - Taking **3, 4, or 6 subjects** was less common.  
-
+  ![Piechart Analysis](122024918_175740290807864_3983596706983439364_n.png)
   📂 Scripts: `data_prepare_piechart.py`, `piechart.py`.  
 
 ### **5️⃣ Average Score vs. Number of Subjects**  
@@ -43,7 +43,7 @@ This project analyzes the **2020 Vietnamese National High School Exam** scores i
 - 📊 Finding:  
   - Score distribution was **fairly uniform** across different subject counts.  
   - **Initial hypothesis** (fewer subjects → lower scores) was **incorrect**.  
-
+  ![Chart Analysis](122246293_175872160794677_2719925073073678596_n.png)
   📂 Scripts: `barchart_average_score.py`.  
 
 ### **6️⃣ Age vs. Exam Performance**  
@@ -53,13 +53,15 @@ This project analyzes the **2020 Vietnamese National High School Exam** scores i
   - Most students were **18 years old**.  
   - Very few students were **younger than 18**.  
   - Older students tended to score **slightly lower**, but the difference was minimal.  
-
+  ![Chart Analysis](122246293_175872160794677_2719925073073678596_n.png)
   📂 Scripts: `barchart_linechart.py`.  
 
 ### **7️⃣ Most Common Surnames**  
 - Extracted surname frequency and plotted a **bar chart**.  
 - 📊 Findings:  
   - The surname **"Nguyễn"** was the most common, followed by **other major Vietnamese surnames**.  
+![Barchart Analysis](122002018_175686414146585_3500961083538438695_n.png
+)
 
 📂 Scripts: `lastname_count_list.py`, `max_list.py`,`sorted_list.py`,`lastname_barchart.py`,`76_longest_name.py`.  
 
